@@ -1,0 +1,15 @@
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/bin/Debug/net7.0/TilfeldigeFirkanterOppgave
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/bin/Debug/net7.0/TilfeldigeFirkanterOppgave.deps.json
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/bin/Debug/net7.0/TilfeldigeFirkanterOppgave.runtimeconfig.json
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/bin/Debug/net7.0/TilfeldigeFirkanterOppgave.dll
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/bin/Debug/net7.0/TilfeldigeFirkanterOppgave.pdb
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.csproj.AssemblyReference.cache
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.AssemblyInfoInputs.cache
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.AssemblyInfo.cs
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.csproj.CoreCompileInputs.cache
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.dll
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/refint/TilfeldigeFirkanterOppgave.dll
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.pdb
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/TilfeldigeFirkanterOppgave.genruntimeconfig.cache
+/Users/abirislam/Documents/Coding/C#/TilfeldigeFirkanterOppgave/TilfeldigeFirkanterOppgave/obj/Debug/net7.0/ref/TilfeldigeFirkanterOppgave.dll
